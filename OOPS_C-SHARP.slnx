@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Encapsulation/Encapsulation.csproj" Id="d2fb60e9-5d55-4271-bc97-aae6a6e857a4" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="3e7bec3c-5bb9-46da-a86b-0001a2ba2e12" />
+  <Project Path="OOPS_C-SHARP/OOPS_C-SHARP.csproj" />
+</Solution>
